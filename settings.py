@@ -4,7 +4,7 @@ class Settings():
         #init game setting
         #screen setting
         self.screen_width=1024
-        self.screen_height=600
+        self.screen_height=640
         self.bg_color=(230,230,230)
         self.ship_speed_factor = 1.5
 
